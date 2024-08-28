@@ -1,0 +1,3 @@
+C:/Users/tikit/CLionProject/Projeto PPP/cmake-build-debug/CMakeFiles/Projeto_PPP.dir
+C:/Users/tikit/CLionProject/Projeto PPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tikit/CLionProject/Projeto PPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
